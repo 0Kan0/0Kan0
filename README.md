@@ -1,5 +1,5 @@
 ## 🙋🏻‍♂️ About me
-Hello there! I'm Alberto, a computer engineering student from Cordoba, Spain 🇪🇸📍
+Hello there! I'm Alberto, a computer engineering student from Córdoba, Spain 🇪🇸📍
 
 Here I'll upload some of the projects that I've made back at the university and from my master, alongside some other interesting projects that I've made on my own. Hope you have a good stay while you are here ^^.
 <br>
