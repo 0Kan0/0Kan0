@@ -45,6 +45,7 @@ Here I'll upload some of the projects that I've made back at the university and 
   [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
   [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io)
   [![Dash](https://img.shields.io/badge/Dash-3B2D3D?logo=plotly&logoColor=white)](https://dash.plotly.com)
+  [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 
   
 - Tools: 
