@@ -26,7 +26,7 @@ Here I'll upload some of the projects that I've made back at the university and 
 <br>
 
 
-## 🛠 Technologies, tools and languages
+## 🛠 Languages, libraries and tools
 
 - Programming languages: 
 
