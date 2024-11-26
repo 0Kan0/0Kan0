@@ -33,7 +33,7 @@ Here I'll upload some of the projects that I've made back at the university and 
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
   [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.cprogramming.com/)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
   [![Shellscript](https://img.shields.io/badge/Shellscript-4EAA25?logo=shell&logoColor=white)](https://www.shellscript.sh)
 
 
