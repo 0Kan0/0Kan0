@@ -7,11 +7,11 @@ Here I'll upload some of the projects that I've made back at the university and 
 ## 👨🏻‍💻 Learning 
 📚 C1 English level certified by [Cambridge](https://www.cambridgeenglish.org/es/exams-and-tests/advanced/)
 
-🖥️ Degree in Computer Engineering at [University of Córdoba](http://www.uco.es/)
+🖥️ Degree in Computer Engineering at [Universidad de Córdoba](http://www.uco.es/), Spain
 
 🐧 Previous collaborator at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/).
 
-🖥️ Master's degree in Machine Learning and Big Data at [Technical University of Madrid](https://www.upm.es/)
+🖥️ Master's degree in Machine Learning and Big Data at [Universidad Politécnica de Madrid](https://www.upm.es/), Spain
 
 <br>
 
